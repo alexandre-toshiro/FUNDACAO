@@ -23,6 +23,7 @@ public class Exec_10 {
 		}else {
 			System.out.println("Valor inválido!");
 		}
+		scan.close();
 	}
 
 }
