@@ -14,7 +14,6 @@ public class Exec_14 {
 		double n2 = scan.nextDouble();
 
 		double media = (n1 + n2) / 2;
-		String conceito;
 
 		if (media > 8 && media <= 10) {
 			System.out.println("Aluno aprovado!");
